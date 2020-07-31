@@ -1,4 +1,4 @@
-# Emmanuel 
+# Emmanuel Tshimongu
 
 *Learn to code, change your life!*
 
@@ -13,9 +13,11 @@
 
 <ul><li>reading<ul><li>Stanford Encyclopedia of Philosophy</li><li>Academic papers </li></ul></li><li>thinking</li></ul>
 
-### You can always count on me 
+### You can always count on me for 
 
-for analytical and creative thinking skills and independent working
+<ul><li>analytical and creative thinking thinking skills</li>
+<li> independent working</li></ul>
+
 
 ### funny story
 
@@ -23,7 +25,7 @@ when I traveled to Congo , we flew by Luanda (capital of Angola) because there w
 but when we finally landed in Kinshasha (capital of Congo) everything was dark , almost no lights shining it was kind of funny to see (and kind of depressing too) how neighbooring countries can differ so much in certain kinds of developments.
 
 ##### tl;dr 
-the (not so) funny contrast of no lights in Kinshasha, many bright lights in Angola 
+the (not so) funny contrast between no lights in Kinshasha, many bright lights in Luanda
 
  [<<Previous](https://github.com/Dwaynebok/Markdown/blob/master/README.md "Dwayne") EMMANUEL TSHIMONGU [Next>>](https://github.com/Akenaftw/markdown-challenge/blob/master/README.md "Felix")
 
