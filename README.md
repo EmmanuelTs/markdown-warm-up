@@ -15,7 +15,7 @@
 
 ### You can always count on me for 
 
-<ul><li>analytical and creative thinking thinking skills</li>
+<ul><li>analytical and creative thinking skills</li>
 <li> independent working</li></ul>
 
 
