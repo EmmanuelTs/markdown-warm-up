@@ -25,5 +25,5 @@ but when we finally landed in Kinshasha (capital of Congo) everything was dark ,
 ##### tl;dr 
 the (not so) funny contrast of no lights in Kinshasha, many bright lights in Angola 
 
-<< [Previous](https://github.com/Dwaynebok/Markdown/blob/master/README.md "Dwayne") ||[EMMANUEL](https://github.com/EmmanuelTs/markdown-warm-up/blob/master/README.md "Emmanuel")||[Next](https://github.com/Akenaftw/markdown-challenge/blob/master/README.md "Felix")>>
+ [<<Previous](https://github.com/Dwaynebok/Markdown/blob/master/README.md "Dwayne") [EMMANUEL TSHIMONGU](https://github.com/EmmanuelTs/markdown-warm-up/blob/master/README.md "Emmanuel")[Next>>](https://github.com/Akenaftw/markdown-challenge/blob/master/README.md "Felix")
 
