@@ -22,6 +22,8 @@ for analytical and creative thinking skills and independent working
 when I traveled to Congo , we flew by Luanda (capital of Angola) because there was a transit there and looking outside the window I saw many bright lights shining (from birdview) because it was evening  
 but when we finally landed in Kinshasha (capital of Congo) everything was dark , almost no lights shining it was kind of funny to see (and kind of depressing too) how neighbooring countries can differ so much in certain kinds of developments.
 
+##### tl;dr 
+the (not so) funny contrast of no lights in Kinshasha, many bright lights in Angola 
 
 
 
